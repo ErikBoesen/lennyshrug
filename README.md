@@ -28,4 +28,4 @@ chrome extension that lets you lennie then shrug. doot doot
 
 ® copyrite 2106-69666 [erek bosen incurparetid](http://erikboesen.com)
 doot doot rites riserved
-thank mr skeletal 4 no hammock n good bones
+thank mr skeletal 4 good hammock n no bones
