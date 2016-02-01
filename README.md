@@ -1,2 +1,2 @@
 # lennyshrug
-lets you lennie then shrug. doot doot
+chrome extension that lets you lennie then shrug. doot doot

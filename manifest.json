@@ -1,0 +1,22 @@
+{
+	"background": {
+		"page": "popup.html"
+	},
+	"browser_action": {
+		"default_icon": {
+			"19": "19.png",
+			"38": "38.png"
+		},
+		"default_popup": "popup.html",
+		"default_title": "lennyshrug"
+	},
+	"icons": {
+		"128": "128.png",
+		"16": "16.png",
+		"48": "48.png"
+	},
+	"manifest_version": 2,
+	"name": "lennyshrug",
+	"permissions": ["clipboardWrite"],
+	"version": "1.0"
+}
