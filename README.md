@@ -1,10 +1,13 @@
 # lennyshrug
-chrome extension that lets you lennie then shrug. doot doot
+chrome extension that lets u copi le lenny n shrug _n nao laf krie fayse 2_. doot doot
 
 ## feeturez
 * MLG
 * 420% garanteed 2 make u an qu1ksk0p3r
 * todo
+
+#NOO FAETURS
+- nao u kan use an laf crie fase
 
 ## innztalishun
 1. download le code an extract le zip
